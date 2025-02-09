@@ -4,7 +4,7 @@
 ### GOLD-P : 
 ![image of WIP delta build](docs/assets/screenshot_delta_wip_p0.01.png)
 - A low-cost, open source 3D printer design
-- links
+- [GOLD-P Github Repository](https://github.com/gibsonpuckett/GOLD-P)
 
 ### Project 2: 
 - Description
