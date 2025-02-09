@@ -2,7 +2,7 @@
 
 ## Projects
 ### GOLD-P : 
-docs/assets/screenshot_delta_wip_p0.01.png
+![image of WIP delta build](docs/assets/screenshot_delta_wip_p0.01.png)
 - A low-cost, open source 3D printer design
 - links
 
